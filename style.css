@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#header{
+    height: 200px;
+
+}
+
+
+#week1,
+#week2,
+#week3,
+#week4{
+    height: 800px;
+}
+
+#week1{
+    background-color: lightpink;
+}
+#week2{
+    background-color: lavender;
+}
+#week3{
+    background-color: orchid;
+}
+#week4{
+    background-color: aquamarine;
+}
+
+h1{
+    color:orange  
+}
+
+h2{
+    color:red
+}
+
+h3{
+    color:aqua
+}
+
+h4{
+    color:pink
+}
+
+html{
+    background-color: floralwhite;
+}
