@@ -15,7 +15,9 @@ html{
 #week1,
 #week2,
 #week3,
-#week4{
+#week4,
+#week5,
+#week6{
     height: 800px;
 }
 
@@ -30,6 +32,12 @@ html{
 }
 #week4{
     background-color: aquamarine;
+}
+#week5{
+    background-color: lightpink;
+}
+#week6{
+    background-color: lavender;
 }
 
 h1{
